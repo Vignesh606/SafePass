@@ -28,3 +28,9 @@ Clone the repo.
 Open index.html in any modern browser.
 
 No npm install required. Zero dependencies.
+sceen shots of the project:
+<img width="1850" height="942" alt="image" src="https://github.com/user-attachments/assets/4c65e4f9-1917-416f-bbcd-467f0d8286e3" />
+with password init 
+<img width="1819" height="952" alt="image" src="https://github.com/user-attachments/assets/5a930d3d-1538-4326-857c-56befe8d4324" />
+
+
